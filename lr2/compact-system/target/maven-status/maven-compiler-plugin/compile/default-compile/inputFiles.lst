@@ -1,0 +1,11 @@
+c:\compact-system\src\main\java\com\example\compact\aspect\LoggingAspect.java
+c:\compact-system\src\main\java\com\example\compact\config\AppConfig.java
+c:\compact-system\src\main\java\com\example\compact\ConfigurationGenerator.java
+c:\compact-system\src\main\java\com\example\compact\factory\ComponentFactory.java
+c:\compact-system\src\main\java\com\example\compact\Main.java
+c:\compact-system\src\main\java\com\example\compact\model\Component.java
+c:\compact-system\src\main\java\com\example\compact\model\ComputingSystem.java
+c:\compact-system\src\main\java\com\example\compact\model\CPU.java
+c:\compact-system\src\main\java\com\example\compact\model\GPU.java
+c:\compact-system\src\main\java\com\example\compact\model\RAM.java
+c:\compact-system\src\main\java\com\example\compact\strategy\CompatibilityStrategy.java
